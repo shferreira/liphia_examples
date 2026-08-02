@@ -1,0 +1,61 @@
+# Liphia
+
+liphia_cache/
+
+
+# Rust / Cargo
+target/
+
+
+# Compilers and bin
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.pdb
+
+# Build artifacts
+dist/
+build/
+out/
+
+Extension:
+*.vsix
+
+# Makefile 
+Makefile
+*.mk
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+*.tmp
+*.temp
+
+# env var
+.env
+.env.local
+
+# 
+
+notes/
+
+# python
+
+.venv/
