@@ -2,7 +2,7 @@
 # Expected output is shown after each print as a comment.
 # Floating-point values may differ in the last 1-2 decimal digits.
 
-import from "math"
+import from "num"
 
 print("═══════════════════════════════════════════")
 print("  MATH TEST 1 — original functions")
